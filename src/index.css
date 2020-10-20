@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.marker-btn{
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+.dot{
+  height: 10px;
+  width: 10px;
+
+}
+
+table, th, td {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #3f4441;
+  font-weight: 100;
+  border: 1px solid black;
+}
+
+
+
+td{
+  width: 100px;
+  height: 15px;
+}
